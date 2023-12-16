@@ -1,7 +1,7 @@
 # Phonebook
  Phonebook is a simple phonebook management system implemented in Python. It allows users to add, search, edit, and delete contacts in an organized manner. The phonebook is implemented using binary search trees for efficient searching and management of contacts.
 
-## Prerequisites
+## Requirements
 
 - Python 3.x
 - Required module: prettytable
